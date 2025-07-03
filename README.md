@@ -1,12 +1,11 @@
-# Hi there 👋 I'm [Your Name]
+# Hi there 👋 I'm ganbin
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **[当前项目或工作]**
-- 🌱 I'm currently learning **[正在学习的技术]**
-- 👯 I'm looking to collaborate on **[希望合作的项目类型]**
-- 💬 Ask me about **[擅长的技术领域]**
-- 📫 How to reach me: **[联系方式]**
+- 🔭 I'm currently working on **[Agent]**
+- 🌱 I'm currently learning **[golang]**
+- 💬 Ask me about **[Java]**
+- 📫 How to reach me: **[jalu.ice@gmail.com]**
 - ⚡ Fun fact: **[有趣的事实]**
 
 ## 🛠️ Technologies & Tools

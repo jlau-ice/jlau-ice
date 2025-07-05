@@ -1,12 +1,11 @@
-# Hi there 👋 I'm ganbin
+# Hi there 👋 I'm ice
 
 ## 🚀 About Me
 
 - 🔭 I'm currently working on **[Agent]**
 - 🌱 I'm currently learning **[golang]**
 - 💬 Ask me about **[Java]**
-- 📫 How to reach me: **[jalu.ice@gmail.com]**
-- ⚡ Fun fact: **[有趣的事实]**
+- 📫 How to reach me: **[jlau.ice@gmail.com]**
 
 ## 🛠️ Technologies & Tools
 
@@ -36,65 +35,3 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourUsername&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-## 📌 Pinned Repositories
-
-<div align="center">
-  <a href="https://github.com/YourUsername/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=project1&theme=tokyonight&hide_border=true" alt="Project 1" />
-  </a>
-  <a href="https://github.com/YourUsername/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=project2&theme=tokyonight&hide_border=true" alt="Project 2" />
-  </a>
-</div>
-
-## 🤝 Connect with Me
-
-<div align="center">
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://yourwebsite.com">
-    <img src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourUsername&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <i>⭐️ From [YourUsername](https://github.com/YourUsername)</i>
-</div>
